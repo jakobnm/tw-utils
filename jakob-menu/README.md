@@ -1,5 +1,6 @@
 ### jakob-menu
-Simple, extremely expandable and high potential menuing system
+Simple, extremely expandable and high potential menuing system\
+There is definitely a better way to do most of the things in this menu system, but until then this will do, and hopefully help anyone looking for it.
 
 Base Features:
 - Broadcasts eventing for main menu panel
